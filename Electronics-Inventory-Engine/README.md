@@ -1,4 +1,4 @@
-# B2B Electronics Logistics & Warehouse Inventory Analytics Engine
+<img width="1206" height="558" alt="image" src="https://github.com/user-attachments/assets/aa25d89f-90f1-41b6-b8c4-96d410dcd3b1" /># B2B Electronics Logistics & Warehouse Inventory Analytics Engine
 
 A data engineering and operational analysis platform that leverages Python microservices to extract transactional facts from a PostgreSQL data warehouse and perform high-performance array manipulation inside Pandas.
 
@@ -11,3 +11,6 @@ A data engineering and operational analysis platform that leverages Python micro
 - `inventoryAnalyse.py`: High-performance Python/FastAPI automated computation pipeline.
 - `schema.sql`: Base data warehouse table declaration layouts.
 - `Inventory_Logistics_Dashboard.pbix`: Dynamic business intelligence visualizations sheet.
+
+- <img width="1054" height="590" alt="image" src="https://github.com/user-attachments/assets/27a4bf0c-da00-4d36-af48-f2a2e448de2b" />
+
