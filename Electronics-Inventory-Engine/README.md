@@ -1,4 +1,4 @@
-<img width="1206" height="558" alt="image" src="https://github.com/user-attachments/assets/aa25d89f-90f1-41b6-b8c4-96d410dcd3b1" /># B2B Electronics Logistics & Warehouse Inventory Analytics Engine
+# B2B Electronics Logistics & Warehouse Inventory Analytics Engine
 
 A data engineering and operational analysis platform that leverages Python microservices to extract transactional facts from a PostgreSQL data warehouse and perform high-performance array manipulation inside Pandas.
 
