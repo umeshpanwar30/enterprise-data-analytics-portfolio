@@ -38,12 +38,6 @@ Welcome to my central production portfolio. This repository serves as an executi
 * **Architectural Scope:** Scripted conditional database logic analyzing browser session durations to isolate drop-off friction points and group user identities into high-intent segments (VIP Converters vs Cart Abandoners).
 * **Visual Mapping Frontend:** Conversion funnel drop-off charts tracking exact sequence drop-offs.
 
-### 🛡️ Project 5: Infrastructure Support Monitor & Telemetry Performance Gateway
-* **Core Technology Stack:** Telemetry Log Matrices, System Log Tracing Operations, Direct DB-to-BI Bridges.
-* **Architectural Scope:** Captured active web application logs to continuously parse real-time API latency response times (ms) and network error counter logs.
-* **Visual Mapping Frontend:** Integrated automated conditional background alerts tracking application crashes (`SERVER CRASH (ERROR 5X)` status markers).
-
----
 
 ## 📁 Repository Navigation Guide
 Each comprehensive system environment is hosted inside its own dedicated workspace folder containing backend codes, relational schemas, and interactive reports:
@@ -51,4 +45,3 @@ Each comprehensive system environment is hosted inside its own dedicated workspa
 - `/Project-2-Electronics-Logistics` 👉 [View Inventory Analytics Pipeline](#)
 - `/Project-3-Corporate-Finance` 👉 [View DAX Financial Semantic Models](#)
 - `/Project-4-Customer-Segmentation` 👉 [View Clickstream Funnel Models](#)
-- `/Project-5-Infrastructure-Monitor` 👉 [View System Telemetry Logs](#)
