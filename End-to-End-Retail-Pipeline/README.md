@@ -16,7 +16,7 @@ A production-ready data engineering and analytics pipeline that bypasses static 
 - **Backend:** FastAPI & Uvicorn ASGI Server Server (Python 3.14 compatible)
 - **Transformation Engine:** Pandas Core Matrices
 - **Reporting BI:** Power BI Desktop Web Data Connectors
+  
+<img width="1234" height="570" alt="image" src="https://github.com/user-attachments/assets/ccfde470-68d3-46c6-be12-407c8cb52612" />
 
-- <img width="1050" height="577" alt="image" src="https://github.com/user-attachments/assets/e5961ec7-7234-431f-b12a-a45bfa3c5c1e" />
-- <img width="1053" height="574" alt="image" src="https://github.com/user-attachments/assets/f8052430-052a-4121-914a-d9a77947d872" />
 
