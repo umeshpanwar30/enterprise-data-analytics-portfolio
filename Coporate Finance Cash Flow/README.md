@@ -18,3 +18,5 @@ An enterprise financial intelligence framework that tracks multi-month cash flow
 ---
 
 ## 📊 Executive Dashboard Preview
+<img width="1054" height="578" alt="image" src="https://github.com/user-attachments/assets/350c8051-15b0-4797-a4c1-5bc89f906555" />
+<img width="1050" height="574" alt="image" src="https://github.com/user-attachments/assets/f01c980f-1691-444a-ab78-f1c202611b88" />
