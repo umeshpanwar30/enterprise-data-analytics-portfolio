@@ -51,4 +51,3 @@ Each comprehensive system environment is hosted inside its own dedicated workspa
 - `/Project-2-Electronics-Logistics` 👉 [View Inventory Analytics Pipeline](#)
 - `/Project-3-Corporate-Finance` 👉 [View DAX Financial Semantic Models](#)
 - `/Project-4-Customer-Segmentation` 👉 [View Clickstream Funnel Models](#)
-- `/Project-5-Infrastructure-Monitor` 👉 [View System Telemetry Logs](#)
