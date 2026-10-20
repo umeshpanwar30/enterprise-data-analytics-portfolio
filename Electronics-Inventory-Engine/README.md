@@ -13,4 +13,5 @@ A data engineering and operational analysis platform that leverages Python micro
 - `Inventory_Logistics_Dashboard.pbix`: Dynamic business intelligence visualizations sheet.
 
 
-<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/df09f5ab-e5bc-4132-911e-2b21934e5e20" />
+<img width="1054" height="590" alt="image" src="https://github.com/user-attachments/assets/0362b842-1961-41ae-ba02-5dbf8112ffae" />
+
