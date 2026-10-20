@@ -11,3 +11,6 @@ A data engineering and operational analysis platform that leverages Python micro
 - `inventoryAnalyse.py`: High-performance Python/FastAPI automated computation pipeline.
 - `schema.sql`: Base data warehouse table declaration layouts.
 - `Inventory_Logistics_Dashboard.pbix`: Dynamic business intelligence visualizations sheet.
+
+
+<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/df09f5ab-e5bc-4132-911e-2b21934e5e20" />
