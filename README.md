@@ -13,7 +13,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 
 ---
 
-## 🗺️ The 5 Pillars of Enterprise Analytics Mapped
+## 🗺️ The 4 Pillars of Enterprise Analytics Mapped
 
 ### ⚡ Project 1: Real-Time Retail Transaction API Engine
 * **Core Technology Stack:** Python 3.14, FastAPI Microservices, Uvicorn ASGI, Pandas Vectorization.
@@ -37,11 +37,6 @@ Welcome to my central production portfolio. This repository serves as an executi
 * **Core Technology Stack:** Nested SQL Case Expressions, Aggregate Blocks, Direct DB Import Connector Queries.
 * **Architectural Scope:** Scripted conditional database logic analyzing browser session durations to isolate drop-off friction points and group user identities into high-intent segments (VIP Converters vs Cart Abandoners).
 * **Visual Mapping Frontend:** Conversion funnel drop-off charts tracking exact sequence drop-offs.
-
-### 🛡️ Project 5: Infrastructure Support Monitor & Telemetry Performance Gateway
-* **Core Technology Stack:** Telemetry Log Matrices, System Log Tracing Operations, Direct DB-to-BI Bridges.
-* **Architectural Scope:** Captured active web application logs to continuously parse real-time API latency response times (ms) and network error counter logs.
-* **Visual Mapping Frontend:** Integrated automated conditional background alerts tracking application crashes (`SERVER CRASH (ERROR 5X)` status markers).
 
 ---
 
