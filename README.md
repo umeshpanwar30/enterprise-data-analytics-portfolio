@@ -13,7 +13,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 
 ---
 
-## 🗺️ The 5 Pillars of Enterprise Analytics Mapped
+## 🗺️ The 4 Pillars of Enterprise Analytics Mapped
 
 ### ⚡ Project 1: Real-Time Retail Transaction API Engine
 * **Core Technology Stack:** Python 3.14, FastAPI Microservices, Uvicorn ASGI, Pandas Vectorization.
