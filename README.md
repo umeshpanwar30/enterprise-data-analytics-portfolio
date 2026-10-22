@@ -7,7 +7,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 
 ## 🛠️ Global Technology Stack & Architecture Layer
 - **Data Warehousing & Query Optimization:** PostgreSQL, Complex Multi-Table Joins, CTE (Common Table Expressions), Window Functions, Schema Partitioning, Keys Constraints, pgAdmin 4.
-- **Backend Pipelines & Microservices Engine:** Python 3.14, FastAPI REST Gateways, Uvicorn ASGI Server, Programmatic Cloud Drivers (`pg8000`), Data Seeding Frameworks, Render Cloud Deployment.
+- **Backend Pipelines & Microservices Engine:** Python 3.12, FastAPI REST Gateways, Uvicorn ASGI Server, Programmatic Cloud Drivers (`pg8000`), Data Seeding Frameworks, Render Cloud Deployment.
 - **Data Manipulation Layer:** Vectorized In-Memory Analytics (Pandas Core DataFrames, NumPy Arrays Calculations).
 - **Business Intelligence & Presentation Front-End:** Power BI Desktop Modeling, Advanced DAX (Data Analysis Expressions), Custom Date Dimension Tables, Structural Filtering Context Loops.
 
@@ -16,7 +16,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 ## 🗺️ The 4 Pillars of Enterprise Analytics Mapped
 
 ### ⚡ Project 1: Real-Time Retail Transaction API Engine
-* **Core Technology Stack:** Python 3.14, FastAPI Microservices, Uvicorn ASGI, Pandas Vectorization.
+* **Core Technology Stack:** Python 3.12, FastAPI Microservices, Uvicorn ASGI, Pandas Vectorization.
 * **Architectural Scope:** Engineered a low-latency data extraction gateway routing raw database tables into custom memory buffers to serve production-ready JSON data streams. 
 * **Operational Logic:** Programmed strict leakage protection rules to force active revenue variables to automatically zero out (`Net Revenue = £0.00`) whenever a record triggers a transaction `Returned` flag.
 * **BI Interface Connection:** Streams optimized real-time endpoints straight into a live Power BI tabular reporting report.
