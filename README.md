@@ -19,7 +19,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 * **Core Technology Stack:** Python 3.12, FastAPI Microservices, Uvicorn ASGI, Pandas Vectorization.
 * **Architectural Scope:** Engineered a low-latency data extraction gateway routing raw database tables into custom memory buffers to serve production-ready JSON data streams. 
 * **Operational Logic:** Programmed strict leakage protection rules to force active revenue variables to automatically zero out (`Net Revenue = £0.00`) whenever a record triggers a transaction `Returned` flag.
-* **BI Interface Connection:** Streams optimized real-time endpoints straight into a live Power BI tabular reporting report.
+* **BI Interface Connection:** Streams optimized real-time endpoints straight into a live Power BI tabular reporting dashboard.
 
 ### 🏬 Project 2: B2B Electronics Logistics & Warehouse Health Engine
 * **Core Technology Stack:** PostgreSQL Data Warehouse, Python/FastAPI Framework, In-Memory DataFrames Analytics.
@@ -36,12 +36,12 @@ Welcome to my central production portfolio. This repository serves as an executi
 ### 🧠 Project 4: E-Commerce Customer Behavioral Intent Funnel Analytics
 * **Core Technology Stack:** Nested SQL Case Expressions, Aggregate Blocks, Direct DB Import Connector Queries.
 * **Architectural Scope:** Scripted conditional database logic analyzing browser session durations to isolate drop-off friction points and group user identities into high-intent segments (VIP Converters vs Cart Abandoners).
-* **Visual Mapping Frontend:** Conversion funnel drop-off charts tracking exact sequence drop-offs.
+* **Visual Mapping Frontend:** Conversion funnel drop-off charts tracking exact sequence drop-offs points.
 
 ---
 
 ## 📁 Repository Navigation Guide
-Each comprehensive system environment is hosted inside its own dedicated workspace folder containing backend codes, relational schemas, and interactive reports:
+Each comprehensive system environment is hosted inside its own dedicated workspace folder containing backend source codes, relational schemas, and interactive reports:
 - `/Project-1-Retail-API-Engine` 👉 [View Microservice Infrastructure](#)
 - `/Project-2-Electronics-Logistics` 👉 [View Inventory Analytics Pipeline](#)
 - `/Project-3-Corporate-Finance` 👉 [View DAX Financial Semantic Models](#)
