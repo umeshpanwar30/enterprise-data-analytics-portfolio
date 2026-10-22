@@ -45,4 +45,4 @@ Each comprehensive system environment is hosted inside its own dedicated workspa
 - `/Project-1-Retail-API-Engine` 👉 https://github.com/umeshpanwar30/enterprise-data-analytics-portfolio/tree/publish-retail-pipeline/End-to-End-Retail-Pipeline
 - `/Project-2-Electronics-Logistics` 👉 https://github.com/umeshpanwar30/enterprise-data-analytics-portfolio/tree/publish-retail-pipeline/Electronics-Inventory-Engine
 - `/Project-3-Corporate-Finance` 👉 https://github.com/umeshpanwar30/enterprise-data-analytics-portfolio/tree/publish-retail-pipeline/Coporate%20Finance%20Cash%20Flow
-- `/Project-4-Customer-Segmentation` 👉 [View Clickstream Funnel Models](#)
+- `/Project-4-Customer-Segmentation` 👉 https://github.com/umeshpanwar30/enterprise-data-analytics-portfolio/tree/publish-retail-pipeline/User%20Behavior%20Analytics%20Platform
