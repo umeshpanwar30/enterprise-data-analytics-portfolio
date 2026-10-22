@@ -42,7 +42,7 @@ Welcome to my central production portfolio. This repository serves as an executi
 
 ## 📁 Repository Navigation Guide
 Each comprehensive system environment is hosted inside its own dedicated workspace folder containing backend source codes, relational schemas, and interactive reports:
-- `/Project-1-Retail-API-Engine` 👉 [View Microservice Infrastructure](#)
-- `/Project-2-Electronics-Logistics` 👉 [View Inventory Analytics Pipeline](#)
+- `/Project-1-Retail-API-Engine` 👉 https://github.com/umeshpanwar30/enterprise-data-analytics-portfolio/tree/publish-retail-pipeline/End-to-End-Retail-Pipeline
+- `/Project-2-Electronics-Logistics` 👉 
 - `/Project-3-Corporate-Finance` 👉 [View DAX Financial Semantic Models](#)
 - `/Project-4-Customer-Segmentation` 👉 [View Clickstream Funnel Models](#)
